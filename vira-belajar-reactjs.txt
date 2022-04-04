@@ -3,4 +3,5 @@ Belajar React Js
 - Memahami alur folder dalam suatu projek
 - Belajar integrasi data
 - Membuat mini projek
-- Belajar Framework Angula dan React
+- Belajar Vue
+- Belajar React pemula
