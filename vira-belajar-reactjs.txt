@@ -5,3 +5,4 @@ Belajar React Js
 - Belajar integrasi data
 - Membuat mini projek
 - Belajar Vue
+- Belajar React pemula
