@@ -3,3 +3,4 @@ Belajar React Js
 - Memahami alur folder dalam suatu projek
 - Belajar Git & Github
 - Belajar integrasi data
+- Membuat mini projek
