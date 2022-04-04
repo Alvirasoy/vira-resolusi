@@ -4,3 +4,5 @@ Belajar React Js
 - Belajar Git & Github
 - Belajar integrasi data
 - Membuat mini projek
+- Belajar Vue
+- Belajar React pemula
