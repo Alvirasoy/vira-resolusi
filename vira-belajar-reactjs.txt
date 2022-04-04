@@ -1,7 +1,6 @@
 Belajar React Js
 - Memahami isi setiap codingan
 - Memahami alur folder dalam suatu projek
-- Belajar Git & Github
 - Belajar integrasi data
 - Membuat mini projek
 - Belajar Vue
